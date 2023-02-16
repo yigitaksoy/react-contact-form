@@ -1,6 +1,6 @@
 const ContactForm = () => {
   return (
-    <div id="form-container" className="lg:p-5">
+    <div id="form-container" className="lg:p-5 font-Encode-Sans">
       <div className="overflow-hidden">
         <h3 className="text-center lg:text-5xl text-5xl mt-10 pb-6 font-bold">
           Contact
